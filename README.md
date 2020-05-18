@@ -1,7 +1,7 @@
 # API inventory control service - Spring Boot
 
 
-Web service contact list API documentation
+Poc Web service inventory control 
 
 ## Quick start
 
